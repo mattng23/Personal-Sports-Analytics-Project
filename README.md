@@ -11,3 +11,4 @@ https://www.basketball-reference.com/draft/NBA_2018.html
 https://www.basketball-reference.com/draft/NBA_2019.html
 https://www.basketball-reference.com/draft/NBA_2020.html
 https://www.basketball-reference.com/draft/NBA_2021.html
+https://stathead.com/basketball/cbb/player-season-finder.cgi
